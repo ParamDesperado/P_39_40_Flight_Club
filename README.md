@@ -84,12 +84,12 @@ TWILIO_PHONE_NUMBER=your_twilio_phone_number
 EMAIL_USER=your_email@example.com
 EMAIL_PASS=your_email_password
 
-##Example Output
+## Example Output
 Getting direct flights for Paris...
 Paris: £35
 Check your email. Lower price flight found to Paris!
 
-##👨‍💻 Author
+## 👨‍💻 Author
 Param Sangani
 🚀 Passionate about automation, data, and clean code.
 
